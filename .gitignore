@@ -19,4 +19,8 @@ coverage
 rdoc
 pkg
 
+# SUBLIME TEXT 2
+*.sublime-project
+*.sublime-workspace
+
 ## PROJECT::SPECIFIC
